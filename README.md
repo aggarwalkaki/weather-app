@@ -20,6 +20,8 @@ for locations all around the world. Here are some key features of the OpenWeathe
 
   ![309d1a60-13b3-4032-a413-6bc8e559d57a (1)](https://github.com/aggarwalkaki/weather-app/assets/143190918/c834b944-55cf-4991-8f2c-6b343541c0c9)
 
+  ![4e575c02-40d7-49a2-900b-1b541b02ef8e](https://github.com/aggarwalkaki/weather-app/assets/143190918/3c42bb77-ef82-42c7-9966-ea3990977d32)
+
 
 
 
