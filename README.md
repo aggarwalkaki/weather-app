@@ -23,6 +23,7 @@ for locations all around the world. Here are some key features of the OpenWeathe
   ![4e575c02-40d7-49a2-900b-1b541b02ef8e](https://github.com/aggarwalkaki/weather-app/assets/143190918/3c42bb77-ef82-42c7-9966-ea3990977d32)
 
   if you add invalid city or country it will show you invalid city name
+  
   ![63232a3e-37d7-4bff-80f4-780c5d9837d1](https://github.com/aggarwalkaki/weather-app/assets/143190918/913182e9-7af5-40f3-a90f-e8bce9800963)
 
 
