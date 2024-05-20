@@ -14,6 +14,7 @@ for locations all around the world. Here are some key features of the OpenWeathe
 * Historical Weather Data: Retrieve historical weather data for any location, which is useful for analysis and research purposes.
 * Global Coverage: Provides weather data for cities and towns worldwide, ensuring that you can get the information you need no matter where you are.
   
-  ![332140509-1f7f6237-6f79-4f6f-8191-86904fefc522](https://github.com/aggarwalkaki/weather-app/assets/143190918/83a89f58-4bdf-4c83-b8f2-a9fb2ad10fed)
+  ![332140509-1f7f6237-6f79-4f6f-8191-86904fefc522](https://github.com/aggarwalkaki/weather-app/assets/143190918/83a89f58-4bdf-4c83-b8f2-a9fb2ad10fed)   ![17f32d95-0085-4bec-89a9-8ba7bbdd92bd](https://github.com/aggarwalkaki/weather-app/assets/143190918/7ff12291-15ba-438f-abed-c2b7607f7fde)
+
 
 
